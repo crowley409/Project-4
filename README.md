@@ -1,4 +1,4 @@
-# Project-4
+# Project-4 by Mu Li, Chelsea Sumba, and Connor Crowley 12/14/2023
 # The main focus of this project revolved around healthcare and brain tumors.
 # The dataset used provided information that indicted whether there was a brain tumor present or not, following with various factors of measure. 
 # The project’s aim was to identify which factor or factors can possibly contribute to having a brain tumor present, as well as vice versa, not having a brain tumor present.
