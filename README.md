@@ -1,4 +1,4 @@
-# Project-4 by Mu Li, Chelsea Sumba, and Connor Crowley 12/14/2023
+# Project-4
 ## Introduction
 The main focus of this project revolved around healthcare and brain tumors.
 The dataset used provided information that indicted whether there was a brain tumor present or not, following with various factors of measure. 
@@ -17,6 +17,10 @@ Models used:
 ## Conclusions
 The dataset showcases large differences in the variables between Group 0 and Group 1, indicating statistical and practical relevance. 
 The 4 models we found most successful with our algorithm were Logistic Regression, Random Forest, SVM, and XGBoost. 
+
+## Authors
+`Mu Li`, `Chelsea Sumba`, and `Connor Crowley` 
+12/14/2023
 
 
 
